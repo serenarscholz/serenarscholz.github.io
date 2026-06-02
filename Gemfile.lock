@@ -189,12 +189,12 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.3)
-  jekyll-feed
-  jekyll-llms-output
-  jekyll-markdown-output
-  jekyll-remote-theme
-  jekyll-sitemap
-  jekyll-soopr-seo-tag
+  jekyll-feed (~> 0.17)
+  jekyll-llms-output (~> 0.1)
+  jekyll-markdown-output (~> 0.1)
+  jekyll-remote-theme (~> 0.4)
+  jekyll-sitemap (~> 1.4)
+  jekyll-soopr-seo-tag (~> 2.1)
   moonwalk!
 
 BUNDLED WITH
