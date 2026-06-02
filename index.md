@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 Welcome! I'm a PhD candidate at Yale University, working with Prof. Juan Lora in the [Planetary Atmospheres group](https://earth.yale.edu/profile/juan-m-lora). 
