@@ -18,13 +18,13 @@ theme_config:
   show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
-  show_projects: true # show projects as cards, add in _data/home.yml
+  show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: false # show number of words and reading time in the blog posts
-  show_tags: true # show tags in a blog posts
-  show_code_copy: true # show copy button on code blocks
+  show_tags: false # show tags in a blog posts
+  show_code_copy: false # show copy button on code blocks
   show_progress_bar: false # show reading progress bar on posts
   show_back_to_top: true # show back-to-top button
   show_post_nav: true # show prev/next links on posts
@@ -33,8 +33,8 @@ theme_config:
   show_link_previews: true # show preview cards when hovering internal post links
   # options for "home" page
   home:
-    title_projects: Portfolio
-    title_misc_list: Details
+    title_projects: 
+    title_misc_list: 
     title_blog: 
     title_old_projects: 
 
