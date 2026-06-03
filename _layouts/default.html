@@ -4,11 +4,11 @@
         {%- include head.html -%}
 
   <header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
-</header>
+  {% if site.theme_config.show_navbar == true %}
+    {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+    <div class="dashed"></div>
+  {% endif %}
+  </header>
   
   <body>
     {%- if site.theme_config.show_progress_bar and page.layout == "post" -%}
