@@ -10,7 +10,7 @@ permalink: /research/
      alt="Net effect of 2m temperature anomalies associated with atmospheric rivers"
      style="float: right; width: 35%; margin: 0 0 1em 1.5em;">
 
-How do atmospheric rivers influence surface temperatures? It turns out that ARs are associated with 2-me temperature anomalies 5–10°C above the climatological mean! This is due to anomalous horizontal transport and convergence of sensible heat and moisture in the lower atmosphere, which increases downward sensible heat flux and downwelling long-wave radiation at the surface. Over 70% of extreme warm-temperature anomalies occur within ARs in large portions of the mid-latitudes, and ARs are associated with moist and compound heatwaves in many regions worldwide.
+How do atmospheric rivers influence surface temperatures? It turns out that ARs are associated with 2-me temperature anomalies 5–10°C above the climatological mean! This is due to anomalous horizontal transport and convergence of sensible heat and moisture in the lower atmosphere, which increases downward sensible heat flux and downwelling longwave radiation at the surface. Over 70% of extreme temperature anomalies occur within ARs in large portions of the midlatitudes, and ARs are associated with moist and compound heatwaves in many regions worldwide.
 <div style="clear: both;"></div>
 
 Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
@@ -21,7 +21,7 @@ covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-als
 <img src="/assets/trendfig_forwebsite.png" 
      alt="Trend in monthly AR hours, DJF"
      style="float: left; width: 35%; margin: 0 1.5em 1em 0;">
-ARs play a major role in controlling water resources and extreme rainfall in many regions, but is still  uncertainty about how the frequency and impacts of these storms has changed over time. When we extend global record of AR activity back to 1940, we find that the frequency of ARs has increased broadly across the midlatitude regions, rather than shifting polewards as observed in recent decades. This leads to more rain, snow, and humid heatwaves associated with these features in both the mid- and high-latitudes. 
+ARs have a major influence on water resources and  rainfall in many regions, but there is still  uncertainty about how these storms may have changed over time. When we extended the global record of AR activity back to 1940, we found that the frequency of ARs has increased broadly across the midlatitude regions, rather than shifting polewards as observed in recent decades. This leads to more rain, snow, and humid heatwaves associated with these features in the mid- and high-latitudes. 
 <div style="clear: both;"></div>
 
 Scholz, S. R., & Lora, J. M. (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances, 6, e2025AV001888.\
