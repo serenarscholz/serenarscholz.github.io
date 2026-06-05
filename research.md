@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Atmospheric rivers cause warm surface temperature anomalies
+#### Atmospheric rivers cause warm surface temperature anomalies
 
 <img src="/assets/Fig_Cropped_Website.png" 
      alt="Net effect of 2m temperature anomalies associated with atmospheric rivers"
@@ -16,7 +16,7 @@ How do atmospheric rivers influence surface temperatures? It turns out that ARs 
 Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
 covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-also-bring-heat-yale-scientists-say), [Yale Scientific](https://www.yalescientific.org/2025/04/rings-of-fire/), [Newsweek](https://www.newsweek.com/atmospheric-river-extreme-heat-heatwave-temperature-weather-us-2002742), [Physics Today](https://physicstoday.aip.org/news/atmospheric-rivers-bring-anomalously-high-temperatures), [IFL Science](https://www.iflscience.com/atmospheric-rivers-are-influencing-unseasonably-warm-winters-and-heatwaves-77304)
 
-### Global increase in AR activity over the historical record
+#### Global increase in AR activity over the historical record
 
 
 <img src="/assets/trendfig_forwebsite.png" 
