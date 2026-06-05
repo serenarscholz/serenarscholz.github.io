@@ -10,7 +10,7 @@ permalink: /research/
      alt="Net effect of 2m temperature anomalies associated with atmospheric rivers"
      style="float: right; width: 35%; margin: 0 0 1em 1.5em;">
 
-How do atmospheric rivers influence surface temperatures? It turns out that ARs are associated with 2-me temperature anomalies 5–10°C above the climatological mean! This is due to anomalous horizontal transport and convergence of sensible heat and moisture in the lower atmosphere, which increases downward sensible heat flux and downwelling longwave radiation at the surface. Over 70% of extreme temperature anomalies occur within ARs in large portions of the midlatitudes, and ARs are associated with moist heatwaves in many regions worldwide.
+How do atmospheric rivers influence surface temperatures? It turns out that ARs are associated with 2m temperature anomalies 5–10°C above the climatological mean! This is due to anomalous horizontal transport and convergence of sensible heat and moisture in the lower atmosphere, which increases downward sensible heat flux and downwelling longwave radiation at the surface. Over 70% of extreme temperature anomalies occur within ARs in large portions of the midlatitudes, and ARs are associated with moist heatwaves in many regions worldwide.
 <div style="clear: both;"></div>
 
 Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
