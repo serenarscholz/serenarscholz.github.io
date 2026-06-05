@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Surface temperature impacts of atmospheric rivers
 
-<img src="/assets/Fig_Cropped_website.png" 
+<img src="/assets/Fig_Cropped_Website.png" 
      alt="Net effect of 2m temperature anomalies associated with atmospheric rivers"
      style="float: right; width: 40%; margin: 0 0 1em 1.5em;">
 
