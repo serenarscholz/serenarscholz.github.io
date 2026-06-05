@@ -10,7 +10,7 @@ navbar_entries:
 
 
 footer_entries:
-  - title: Google Scholar
+  - title: google scholar
     url: https://scholar.google.com/citations?user=r0wfJ0gAAAAJ
-  - title: GitHub
+  - title: github
     url: https://github.com/serenarscholz
