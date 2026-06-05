@@ -4,18 +4,12 @@ navbar_entries:
 
   - title: research
     url: research
- 
-  - title: ARQ
-    url: arq
-
-  - title: isca-land
-    url: isca-land
 
   - title: cv
     url: cv
 
 
-footer:
+footer_entries:
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=r0wfJ0gAAAAJ
   - title: GitHub
