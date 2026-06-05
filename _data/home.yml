@@ -1,6 +1,6 @@
 navbar_entries:
   - title: home
-    url: home
+    url: /
 
   - title: research
     url: research
