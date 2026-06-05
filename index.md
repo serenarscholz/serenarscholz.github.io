@@ -9,3 +9,4 @@ I study atmospheric rivers: long, narrow storm systems that transport water and 
 
 This website is under construction! Check back soon for more content.
 
+current total precipitable water & 700hPa winds:
