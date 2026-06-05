@@ -21,8 +21,9 @@ covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-als
 <img src="/assets/trendfig_forwebsite.png" 
      alt="Trend in monthly AR hours, DJF"
      style="float: left; width: 35%; margin: 0 1.5em 1em 0;">
-Despite the influence of atmospheric rivers on water resources and extreme rainfall in many regions, there is still substantial uncertainty about how the frequency and impacts of these storms has changed over time. We extend the global record of AR activity back to 1940, and find that the frequency of ARs has increased broadly across the midlatitude regions, rather than shifting polewards as observed in recent decades. This increase in AR frequency leads to more rain and snow associated with these features in both the mid- and high-latitudes. We also find that there is an increase in humid heatwaves associated with ARs over the same period.
+Despite the influence of atmospheric rivers on water resources and extreme rainfall in many regions, there is still substantial uncertainty about how the frequency and impacts of these storms has changed over time. When we extend global record of AR activity back to 1940, we find that the frequency of ARs has increased broadly across the midlatitude regions, rather than shifting polewards as observed in recent decades. This increase in AR frequency leads to more rain, snow, and humid heatwaves associated with these features in both the mid- and high-latitudes. 
 <div style="clear: both;"></div>
+
 Scholz, S. R., & Lora, J. M. (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances, 6, e2025AV001888.\
 read the [Eos Editor's Highlight!](https://eos.org/editor-highlights/future-hotspots-of-hazardous-rivers-in-the-atmosphere)
 
