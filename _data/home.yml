@@ -8,6 +8,9 @@ navbar_entries:
   - title: cv
     url: cv
 
+ - title: contact
+    url: contact
+
 
 footer_entries:
   - title: google scholar
