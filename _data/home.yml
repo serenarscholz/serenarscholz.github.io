@@ -8,7 +8,7 @@ navbar_entries:
   - title: cv
     url: cv
 
- - title: contact
+  - title: contact
     url: contact
 
 
