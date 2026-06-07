@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-Here are some brief summaries of my recent research projects.
-
 #### Atmospheric rivers cause warm surface temperature anomalies
 
 <img src="/assets/Fig_Cropped_Website.png" 
@@ -40,3 +38,10 @@ As an undergrad, I worked with [Dr. Richard Seager](https://ocp.ldeo.columbia.ed
 Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, and S.H. Baek (2022), [Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe]( https://doi.org/10.1007/s00382-021-05977-5). Climate Dynamics v. 58, p. 1539–1553.\
 Baek, S.H., J.E. Smerdon, G.-C. Dobrin, J.G. Naimark, E.R. Cook, B.I. Cook, R. Seager, M.A. Cane, and S.R. Scholz (2020), [A quantitative hydroclimatic context for the European Great Famine of 1315-1317](https://doi.org/10.1038/s43247-020-00016-3). Communications Earth & Environment, v. 1 (1), no. 1.\
 read more about the Great Famine paper in [State of the Planet](https://news.climate.columbia.edu/2020/09/22/great-famine-soggiest-years-centuries/)
+
+#### Seasonal paleoclimate reconstructions using stable isotopes
+
+Before I made the switch into atmospheric dynamics, I worked on stable isotope-based paleoclimate reconstructions with [Dr. Sierra Petersen](https://sites.lsa.umich.edu/petersen-group/). Subannual climate records are hard to find in the geologic record due to time-averaging in most paleoclimate archive materials, but some fast-growing marine mollusks allow the reconstruction of seasonal temperature and precipitation variability (with some caveats). Fossil specimens from the the Mid-Miocene Climatic Optimum suggest that there was an enhanced seasonal cycle of precipitation in northern South America relative to today, which may have been related to a more northerly position of the ITCZ.
+
+Scholz, S.R., S.V. Petersen, et. al., (2020), [Isotope sclerochronology indicates enhanced seasonal precipitation in northern South America (Colombia) during the Mid Miocene Climatic Optimum](https://doi.org/10.1130/G47235.1). Geology v. 48 (7), p. 668-672.\
+Scholz, S.R., S.V. Petersen and B.M. Anderson (2024). [Modern reconstructions of mean and seasonal-scale climate from coastal marine gastropods (Turritellidae)](https://doi.org/10.1016/j.palaeo.2024.112553). Palaeogeography, Palaeoclimatology, Palaeoecology v. 655, 112553.
