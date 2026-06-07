@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Here's a selection of recent research projects that I'm excited about!
+Here are some quick summaries of my recent research projects.
 
 #### Atmospheric rivers cause warm surface temperature anomalies
 
@@ -18,8 +18,7 @@ How do atmospheric rivers influence surface temperatures? It turns out that ARs 
 Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
 covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-also-bring-heat-yale-scientists-say), [Yale Scientific](https://www.yalescientific.org/2025/04/rings-of-fire/), [Newsweek](https://www.newsweek.com/atmospheric-river-extreme-heat-heatwave-temperature-weather-us-2002742), [Physics Today](https://physicstoday.aip.org/news/atmospheric-rivers-bring-anomalously-high-temperatures), [IFL Science](https://www.iflscience.com/atmospheric-rivers-are-influencing-unseasonably-warm-winters-and-heatwaves-77304)
 
-#### Global increase in AR activity over the historical record
-
+#### Global increase in atmospheric river activity over the historical record
 
 <img src="/assets/trendfig_forwebsite.png" 
      alt="Trend in monthly AR hours, DJF"
@@ -30,4 +29,14 @@ ARs have a major influence on water resources and rainfall in many regions, but 
 Scholz, S. R., & Lora, J. M. (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances, 6, e2025AV001888.\
 read the [Eos Editor's Highlight!](https://eos.org/editor-highlights/future-hotspots-of-hazardous-rivers-in-the-atmosphere)
 
+#### Centennial-scale variability in European hydroclimate
 
+<img src="/assets/ecmode_2.png" 
+     alt="English Channel mode"
+     style="float: right; width: 33%; margin: 0 0 1em 1.5em;">
+
+As an undergrad, I worked with [Dr. Richard Seager](https://ocp.ldeo.columbia.edu/res/div/ocp/people/seager/) during a summer internship at Lamont. We analyzed long term modes of variability in European hydroclimate, using a tree-ring based reconstruction. Although a pattern similar to the expression of the winter North Atlantic Oscillation (NAO) dominates variability in the last century, we found that previous centuries were dominated by a different mode we named the "English Channel" mode, which exhibits pronounced centennial scale variability. This mode of variability was also linked to the Great Famine of 1315-1317, during which time massive deluges lead to widespread crop failures and famines across Europe.
+
+Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, and S.H. Baek (2022), [Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe]( https://doi.org/10.1007/s00382-021-05977-5). Climate Dynamics v. 58, p. 1539–1553.\
+Baek, S.H., J.E. Smerdon, G.-C. Dobrin, J.G. Naimark, E.R. Cook, B.I. Cook, R. Seager, M.A. Cane, and S.R. Scholz (2020), [A quantitative hydroclimatic context for the European Great Famine of 1315-1317](https://doi.org/10.1038/s43247-020-00016-3). Communications Earth & Environment, v. 1 (1), no. 1.\
+read more about the Great Famine paper in [State of the Planet](https://news.climate.columbia.edu/2020/09/22/great-famine-soggiest-years-centuries/)
