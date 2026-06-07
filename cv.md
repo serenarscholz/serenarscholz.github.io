@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Download my full CV here](/assets/CV_2026.pdf)
+[Download my full CV here](/assets/SerenaScholz_CV_2026.pdf)
 
 ### Education
 Ph.D. Earth and Planetary Sciences, Yale University (2022-present)\
