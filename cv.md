@@ -9,12 +9,12 @@ permalink: /cv/
 ### Education
 Ph.D. Earth and Planetary Sciences, Yale University (2022-present), expected defense Spring 2027\
 M.S. Earth and Environmental Sciences, University of Michigan (2020)\
-B.S. Earth and Environmental Sciences, PBK, University of Michigan (2019)\
+B.S. Earth and Environmental Sciences, PBK, University of Michigan (2019)
 
 ### Publications in Preparation / in Press
 Scholz, S.R. and J.M. Lora. Rivers in the sky. “Quick study” explainer article on atmospheric rivers, Physics Today.\
 Scholz, S.R and J.M. Lora. The dynamic lifecycle of atmospheric rivers: insights from idealized models. In preparation for Science Advances.\
-Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In preparation for Geophysical Research Letters.\
+Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In preparation for Geophysical Research Letters.
 
 ### Peer-Reviewed Publications
 Scholz, S.R. and J.M. Lora (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances v. 6, e2025AV001888.\
@@ -23,7 +23,7 @@ Scholz, S.R., S.V. Petersen and B.M. Anderson (2024). [Modern reconstructions of
 Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, and S.H. Baek (2022), [Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe]( https://doi.org/10.1007/s00382-021-05977-5). Climate Dynamics v. 58, p. 1539–1553.\
 O'Hora, H. E., Petersen, S. V., Vellekoop, J., Jones, M. M., and S.R. Scholz (2022), [Clumped-isotope-derived climate trends leading up to the end-Cretaceous mass extinction in northwestern Europe](https://doi.org/10.5194/cp-18-1963-2022). Climate of the Past, v. 18, p.1963–1982.\
 Baek, S.H., J.E. Smerdon, G.-C. Dobrin, J.G. Naimark, E.R. Cook, B.I. Cook, R. Seager, M.A. Cane, and S.R. Scholz (2020), [A quantitative hydroclimatic context for the European Great Famine of 1315-1317](https://doi.org/10.1038/s43247-020-00016-3). Communications Earth & Environment, v. 1 (1), no. 1.\
-Scholz, S.R., S.V. Petersen, et. al., (2020), [Isotope sclerochronology indicates enhanced seasonal precipitation in northern South America (Colombia) during the Mid Miocene Climatic Optimum](https://doi.org/10.1130/G47235.1). Geology v. 48 (7), p. 668-672.\
+Scholz, S.R., S.V. Petersen, et. al., (2020), [Isotope sclerochronology indicates enhanced seasonal precipitation in northern South America (Colombia) during the Mid Miocene Climatic Optimum](https://doi.org/10.1130/G47235.1). Geology v. 48 (7), p. 668-672.
 
 ### Invited Talks
 Princeton Climate Dynamics & Impacts Seminar. “Atmospheric rivers cause warm winters and extreme heat events.” March 2025.
@@ -41,17 +41,17 @@ oScholz, S.R. and S.V. Petersen. Reconstructing seasonal-scale precipitation pat
 †Scholz, S.R., R. Seager, M. Ting, and Y. Kushnir. Centennial Timescale Variability in Euro-Mediterranean Hydroclimate Since the Little Ice Age. AGU Fall Meeting, San Francisco, CA, Dec. 2019.\
 †Scholz, S.R., S.V. Petersen, et al.. Clumped isotope calibration for marine gastropods. Michigan Geophysical Union, Ann Arbor, MI, Apr. 2019.\
 *Scholz, S.R., S.V. Petersen, et al.. Isotope Schlerochronology and Tropical Seasonality During the Mid Miocene Climatic Optimum. Goldschmidt, Boston, MA, Aug. 2018.\
-†Scholz, S R., S.V. Petersen, J.H. Escobar. Miocene seashells record ancient coastal environments. Michigan Geophysical Union, Ann Arbor, MI, Apr. 2018.\
+†Scholz, S R., S.V. Petersen, J.H. Escobar. Miocene seashells record ancient coastal environments. Michigan Geophysical Union, Ann Arbor, MI, Apr. 2018.
 
 ### Teaching Fellowships
 2026 EPS 1400 Atmosphere, Ocean and Climate Change\
 2025 EPS 140 Atmosphere, Ocean, and Climate Change\
 2023 EPS 101 Climate Change\
-2022 EPS 110 Dynamic Earth\
+2022 EPS 110 Dynamic Earth
 
 ### Service
 Chair, “Atmospheric Rivers: Processes, Impacts, Observations, and Uncertainties Oral II.” AGU Fall Meeting 2025.\
-Reviewer: Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Nature Communications, Communications Earth & Environment, Journal of Climate, Weather.\
+Reviewer: Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Nature Communications, Communications Earth & Environment, Journal of Climate, Weather.
 
 ### Academic Awards and Fellowships
 Excellence in Teaching Prize, for EPS 1400 (2026)\
@@ -61,6 +61,6 @@ Earth and Environmental Sciences Dept. Undergraduate Academic Excellence Award (
 Eugene and Elizabeth Singer Award for Academic Excellence in Geology (2018)\
 Matt Kelley/Granader Family Prize for Excellence in Writing (2017)\
 Leonard and Eileen Newman Prize for Writing (2017)\
-Roy W. Cowden Memorial Fellowship for Writing (2017)\
+Roy W. Cowden Memorial Fellowship for Writing (2017)
 
 
