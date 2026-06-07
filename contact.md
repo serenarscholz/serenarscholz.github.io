@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-feel free to get in touch @ serena.scholz@yale.edu
+feel free to get in touch! email: serena.scholz@yale.edu
