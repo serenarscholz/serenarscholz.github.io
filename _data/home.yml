@@ -3,13 +3,13 @@ navbar_entries:
     url: /
 
   - title: research
-    url: research
+    url: /research/
 
   - title: cv
-    url: cv
+    url: /cv/
 
   - title: contact
-    url: contact
+    url: /contact/
 
 
 footer_entries:
