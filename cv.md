@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: CV
+permalink: /cv/
 ---
 
 [Download my full CV here](/assets/CV_2026.pdf){:target="_blank"}
