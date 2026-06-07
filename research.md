@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Here are some quick summaries of my recent research projects.
+Here are some brief summaries of my recent research projects.
 
 #### Atmospheric rivers cause warm surface temperature anomalies
 
