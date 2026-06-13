@@ -4,9 +4,9 @@ title: Software
 permalink: /software/
 ---
 
-## ARQ
+## AR detection
 
-ARQ is a new atmospheric river detection algorithm based on the moisture-weighted wind field. Unlike methods based on IVT or IWV, it performs consistently across a variety of warm and cold climate states without tuning or arbitrary threshold decisions. Code and documentation will be made available on GitHub when the associated paper is published. AR tags will also be included in the [Atmospheric River Tracking Method Intercomparison Project (ARTMIP)](https://ncar.github.io/ARTMIP/intro.html).
+I developed a new atmospheric river detection algorithm based on the moisture-weighted wind field. Unlike methods based on IVT or IWV, it performs consistently across a variety of warm and cold climate states without tuning or arbitrary threshold decisions. Code and documentation will be made available on GitHub when the associated paper is published. AR tags will also be included in the [Atmospheric River Tracking Method Intercomparison Project (ARTMIP)](https://ncar.github.io/ARTMIP/intro.html).
 
 ## Island
 
