@@ -17,5 +17,5 @@ Most AR detection algorithms are based on IVT and IWV, and they apply some sort 
 Island is a modification to the hierarchical modeling framework [Isca](https://execlim.github.io/IscaWebsite/) that allows highly-customizable land surfaces, including a simple representation of the effect of plants on surface evaporation. Users can create and input custom maps of albedo, surface roughness, and stomatal conductance. Once the modifications are integrated into the Isca codebase, code and documentation will be made available on GitHub.
 
 <div style="text-align: center; margin: 1em 0;">
-  <img src="/assets/island_demo.png" alt="AR identification" style="width: 70%; display: inline-block;">
+  <img src="/assets/island_demo.png" alt="AR identification" style="width: 90%; display: inline-block;">
 </div>
