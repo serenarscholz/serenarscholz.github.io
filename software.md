@@ -4,9 +4,9 @@ title: Software
 permalink: /software/
 ---
 
-## AR detection
+## AR identifiation algorithm
 
-I developed a new atmospheric river detection algorithm based on the moisture-weighted wind field. Unlike methods based on IVT or IWV, it performs consistently across a variety of warm and cold climate states without tuning or arbitrary threshold decisions. Code and documentation will be made available on GitHub when the associated paper is published. AR tags will also be included in the [Atmospheric River Tracking Method Intercomparison Project (ARTMIP)](https://ncar.github.io/ARTMIP/intro.html).
+Most AR detection algorithms are based on IVT and IWV, and they apply some sort of arbitrary threshold to detect features (e.g. water vapor transport over a certain absolute value, or over a certain percentile, etc.). Our new method is based instead on the moisture-weighted wind field, and it performs consistently across a variety of warm and cold climate states without tuning or arbitrary threshold decisions. Code and documentation will be made available on GitHub when the associated paper is published. AR tags will also be included in the [Atmospheric River Tracking Method Intercomparison Project (ARTMIP)](https://ncar.github.io/ARTMIP/intro.html).
 
 ## Island
 
