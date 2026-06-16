@@ -8,7 +8,7 @@ permalink: /cv/
 
 ### Education
 Ph.D. Earth and Planetary Sciences, Yale University (2022-present)\
- -- expected defense Spring 2027! 
+ -- expected defense Spring 2027!\
 M.S. Earth and Environmental Sciences, University of Michigan (2020)\
 B.S. Earth and Environmental Sciences, University of Michigan (2019)
 
