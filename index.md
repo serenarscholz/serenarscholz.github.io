@@ -7,7 +7,7 @@ permalink: /
      alt="Headshot"
      style="float: right; width: 25%; margin: 1em 0 1em 1.5em;">
 
-
+<br>
 Hi there!\
 I'm a PhD candidate in the Dept. of Earth & Planetary Sciences at Yale University, advised by [Prof. Juan Lora](https://earth.yale.edu/profile/juan-m-lora). 
 
