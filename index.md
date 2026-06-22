@@ -5,7 +5,7 @@ permalink: /
 
 <img src="/assets/Headshot_062026_oval.png" 
      alt="Headshot"
-     style="float: right; width: 25%; margin: 1em 0 1em 1.5em;">
+     style="float: right; width: 28%; margin: 0.5em 0.5em 0.5em 1.5em;">
 
 Hi there! I'm a PhD candidate in the Dept. of Earth & Planetary Sciences at Yale University, advised by [Prof. Juan Lora](https://earth.yale.edu/profile/juan-m-lora). 
 
