@@ -7,7 +7,7 @@ permalink: /
      alt="Headshot"
      style="float: right; width: 26%; margin: 0em 0.5em 0.5em 1.5em;">
 
-Hi there! I'm a PhD candidate in the Dept. of Earth & Planetary Sciences at Yale University, advised by [Prof. Juan Lora](https://earth.yale.edu/profile/juan-m-lora). 
+Hi there! I'm a PhD candidate in the Department of Earth & Planetary Sciences at Yale University, advised by [Prof. Juan Lora](https://earth.yale.edu/profile/juan-m-lora). 
 
 I study atmospheric rivers: long, narrow storm systems that transport water and energy across the globe. To do this, I use a combination of observations and models, with a focus on idealized modeling and model hierarchies. 
 <br>
