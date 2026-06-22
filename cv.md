@@ -14,7 +14,7 @@ B.S. Earth and Environmental Sciences, University of Michigan (2019)
 
 ### Publications in prep. / in press
 Scholz, S.R and J.M. Lora. The dynamic lifecycle of atmospheric rivers: insights from idealized models. In prep., Science Advances.\
-Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In prep., Geophysical Research Letters.
+Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In prep., Geophysical Research Letters.\
 Scholz, S.R. and J.M. Lora. Quick study: Rivers in the sky. In press, Physics Today.
 
 ### Peer-Reviewed Publications
