@@ -9,7 +9,7 @@ permalink: /
 
 Hi there! I'm a PhD candidate in Earth & Planetary Sciences at Yale University. I am advised by [Prof. Juan Lora](https://earth.yale.edu/profile/juan-m-lora) in the [Atmosphere, Ocean & Climate Dynamics](https://earth.yale.edu/research/atmosphere-oceans-climate-dynamics) division.
 
-My dissertation research focuses on atmospheric rivers: long, narrow storm systems that transport water and energy across the globe. I use a combination of observations and models of various complexity, from idealized aquaplanets to fully-coupled GCMs.
+My dissertation research focuses on atmospheric rivers: long, narrow storm systems that transport water and energy across the globe. I use a combination of observations and models of a range of complexity (who doesn't like a good model hierarchy!).
 <br>
 <br>
 I'm also interested in extratropical cyclones and storm track dynamics, Earth's past and future (hydro)climate, the influence of land on weather systems, and the global water and energy cycles.
