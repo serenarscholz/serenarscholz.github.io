@@ -14,7 +14,7 @@ How do atmospheric rivers influence near-surface temperatures? It turns out that
 <div style="clear: both;"></div>
 
 Scholz, S.R. & J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
-covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-also-bring-heat-yale-scientists-say), [Yale Scientific](https://www.yalescientific.org/2025/04/rings-of-fire/), [Newsweek](https://www.newsweek.com/atmospheric-river-extreme-heat-heatwave-temperature-weather-us-2002742), [Physics Today](https://physicstoday.aip.org/news/atmospheric-rivers-bring-anomalously-high-temperatures)
+covered by [Yale News](https://news.yale.edu/2024/12/18/intense-ribbons-rain-also-bring-heat-yale-scientists-say), [Yale Scientific](https://www.yalescientific.org/2025/04/rings-of-fire/), [Newsweek](https://www.newsweek.com/atmospheric-river-extreme-heat-heatwave-temperature-weather-us-2002742), [Physics Today](https://physicstoday.aip.org/news/atmospheric-rivers-bring-anomalously-high-temperatures), and others!
 
 #### Global increase in atmospheric river activity over the historical record
 
