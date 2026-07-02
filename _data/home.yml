@@ -5,8 +5,8 @@ navbar_entries:
   - title: research
     url: /research
   
-  - title: software
-    url: /software
+ # - title: software
+ #   url: /software
 
   - title: cv
     url: /cv
