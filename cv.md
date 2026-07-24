@@ -14,10 +14,10 @@ B.S. Earth and Environmental Sciences, University of Michigan (2019)
 
 ### Publications in prep. / submitted / in press
 Scholz, S.R and J.M. Lora. The dynamic lifecycle of atmospheric rivers: insights from idealized models. Submitted, Science Advances.\
-Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. Submitted, Geophysical Research Letters.\
-Scholz, S.R. and J.M. Lora. Quick study: Rivers in the sky. In press, Physics Today.
+Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In Review, Geophysical Research Letters.\
 
 ### Peer-Reviewed Publications
+[9] Scholz, S.R. and J.M. Lora (2026). [Quick study: Rivers in the sky](https://doi.org/10.1063/pt.171e3ee933). Physics Today.
 [7] Scholz, S.R. and J.M. Lora (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances v. 6, e2025AV001888.\
 [6] Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
 [5] Scholz, S.R., S.V. Petersen and B.M. Anderson (2024). [Modern reconstructions of mean and seasonal-scale climate from coastal marine gastropods (Turritellidae)](https://doi.org/10.1016/j.palaeo.2024.112553). Palaeogeography, Palaeoclimatology, Palaeoecology v. 655, 112553.\
