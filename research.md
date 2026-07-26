@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-**What is an atmospheric river?** Read our [quick study in Physics Today](https://doi.org/10.1063/pt.171e3ee933) for an overview!
+*What is an atmospheric river?* Read our [quick study in Physics Today](https://doi.org/10.1063/pt.171e3ee933) for an overview!
 
 #### Atmospheric rivers cause warm temperature anomalies
 
