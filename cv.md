@@ -53,7 +53,8 @@ Princeton Climate Dynamics & Impacts Seminar. “Atmospheric rivers cause warm w
 2022 EPS 110 Dynamic Earth
 
 ### Service & Outreach
-Instructor, Yale Pathways to Science Summer Program 2026. Planned and co-taught earth science module for local high schoolers called "Plants: How Earth Became Green," including lectures and interactive lab/museum activities.\
+Instructor, Yale Pathways to Science Summer Program 2026. 
+- Planned and co-taught earth science module for local high schoolers called "Plants: How Earth Became Green," including lectures and interactive lab/museum activities.\
 Chair, “Atmospheric Rivers: Processes, Impacts, Observations, and Uncertainties Oral II.” AGU Fall Meeting 2025.\
 Reviewer: Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Nature Communications, Communications Earth & Environment, Journal of Climate, Weather.
 
