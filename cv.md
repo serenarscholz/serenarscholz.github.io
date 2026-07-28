@@ -4,20 +4,19 @@ title: CV
 permalink: /cv/
 ---
 
-[Download my full CV here](/assets/SerenaScholz_CV_2026.pdf)
-
 ### Education
 Ph.D. Earth and Planetary Sciences, Yale University (2022-present)\
  -- expected defense Spring 2027!\
 M.S. Earth and Environmental Sciences, University of Michigan (2020)\
 B.S. Earth and Environmental Sciences, University of Michigan (2019)
 
-### Publications in prep. / submitted / in press
+### Publications in prep. / submitted / in review
 Scholz, S.R and J.M. Lora. The dynamic lifecycle of atmospheric rivers: insights from idealized models. Submitted, Science Advances.\
 Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and Pacific Oceans to an Anomalous Surface Heat Flux. In Review, Geophysical Research Letters.\
+O'Brien, T.A., K.T. Quagraine, C. Shields, S.R. Scholz, & 35 co-authors. Lessons from Ten Years of the Atmospheric River Tracking Method Intercomparison Project. Submitted, BAMS.\
+Mattingly, K.S., M. Maclennan, J. Schnaubelt, C. Shields, R. Baiman, A. Masssa, K. Nardi, S.R. Scholz, & 26 co-authors. The ARTMIP Tier 2 Polar Synthesis: A comparative analysis of polar atmospheric river tracking methods in historical and future climate states. In prep, Cryosphere.\
 
-### Peer-Reviewed Publications
-[8] Scholz, S.R. and J.M. Lora (2026). [Quick study: Rivers in the sky](https://doi.org/10.1063/pt.171e3ee933). Physics Today.\
+### Peer-Reviewed Journal Articles
 [7] Scholz, S.R. and J.M. Lora (2025). [Widespread increase in atmospheric river frequency and impacts over the 20th century](https://doi.org/10.1029/2025AV001888). AGU Advances v. 6, e2025AV001888.\
 [6] Scholz, S.R. and J.M. Lora (2024). [Atmospheric rivers cause warm winters and extreme heat events](https://doi.org/10.1038/s41586-024-08238-7). Nature v. 636, p. 640–646.\
 [5] Scholz, S.R., S.V. Petersen and B.M. Anderson (2024). [Modern reconstructions of mean and seasonal-scale climate from coastal marine gastropods (Turritellidae)](https://doi.org/10.1016/j.palaeo.2024.112553). Palaeogeography, Palaeoclimatology, Palaeoecology v. 655, 112553.\
@@ -25,6 +24,9 @@ Scholz, S.R. and A.V. Fedorov. Contrasting Responses of the Tropical Indian and 
 [3] O'Hora, H. E., Petersen, S. V., Vellekoop, J., Jones, M. M., and S.R. Scholz (2022), [Clumped-isotope-derived climate trends leading up to the end-Cretaceous mass extinction in northwestern Europe](https://doi.org/10.5194/cp-18-1963-2022). Climate of the Past, v. 18, p.1963–1982.\
 [2] Baek, S.H., J.E. Smerdon, G.-C. Dobrin, J.G. Naimark, E.R. Cook, B.I. Cook, R. Seager, M.A. Cane, and S.R. Scholz (2020), [A quantitative hydroclimatic context for the European Great Famine of 1315-1317](https://doi.org/10.1038/s43247-020-00016-3). Communications Earth & Environment, v. 1 (1), no. 1.\
 [1] Scholz, S.R., S.V. Petersen, et. al., (2020), [Isotope sclerochronology indicates enhanced seasonal precipitation in northern South America (Colombia) during the Mid Miocene Climatic Optimum](https://doi.org/10.1130/G47235.1). Geology v. 48 (7), p. 668-672.
+
+### Other Peer-Reviewed Publications
+Scholz, S.R. and J.M. Lora (2026). [Quick study: Rivers in the sky](https://doi.org/10.1063/pt.171e3ee933). Physics Today.
 
 ### Invited Talks
 Princeton Climate Dynamics & Impacts Seminar. “Atmospheric rivers cause warm winters and extreme heat events.” March 2025.
@@ -50,7 +52,8 @@ Princeton Climate Dynamics & Impacts Seminar. “Atmospheric rivers cause warm w
 2023 EPS 101 Climate Change\
 2022 EPS 110 Dynamic Earth
 
-### Service
+### Service & Outreach
+Instructor, Yale Pathways to Science Summer Program 2026. Planned and co-taught earth science module for local high schoolers called "Plants: How Earth Became Green," including lectures and interactive lab/museum activities.\
 Chair, “Atmospheric Rivers: Processes, Impacts, Observations, and Uncertainties Oral II.” AGU Fall Meeting 2025.\
 Reviewer: Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Nature Communications, Communications Earth & Environment, Journal of Climate, Weather.
 
